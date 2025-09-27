@@ -46,7 +46,8 @@ Kết quả khi đăng nhập thành công:
 ---
 
 ## 🏠 Sau khi đăng nhập thành công → vào trang chủ  
-![display result](images/image5.png)  
+![display result](images/image6.png)  
+
 
 ---
 
